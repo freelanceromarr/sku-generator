@@ -1,0 +1,56 @@
+.form-area {
+    background: #ddd;
+    padding: 16px;
+}
+.countNumber{
+    border: 1px solid #333 !important;
+    display: inline !important;
+}
+.separator{
+
+}
+@media (min-width: 768px){
+    .sku-area{
+        margin-top: -100px;
+    }
+}
+
+.header-text, .header-desc{
+    color: #fff;
+    font-family: Zoho Puvi Light,-apple-system,BlinkMacSystemFont,San Francisco,Helvetica Neue,Helvetica,Ubuntu,Roboto,Noto,Segoe UI,Arial,sans-serif;
+    padding:0 20px !important;
+}
+.sheet-table-section{
+    height: 440px;
+    width:100%;
+    margin:0 auto;
+    overflow-y:scroll;
+}
+.jumbotron{
+    background:#AB9C7D!important;
+    
+}
+ @media (max-width: 768px){
+     .mytable{
+         padding: 0 !important;
+         margin: 50px 0 !important;
+     }
+     .col-lg-8{
+         padding: 0 !important;
+         margin: 50px 0 !important;
+     }
+ }
+ @media (max-width: 576px){
+     .header-text{
+         font-size: 22px;
+     }
+
+ }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding: 20px 0 !important;
+}

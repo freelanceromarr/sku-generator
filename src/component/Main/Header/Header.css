@@ -1,0 +1,25 @@
+.header-text {
+    font-size: 29px;
+    padding: 0 15px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.pipeline{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 600;
+}
+.btn-danger{
+    background:#AB9C7D !important;
+    border-color:#AB9C7D !important; ;
+}
+@media (max-width:600px){
+    .to-des-title{
+        display:block;
+        font-size: 22px;
+        margin: 10px 0;
+        line-height: 1.2em;
+        }
+
+}
